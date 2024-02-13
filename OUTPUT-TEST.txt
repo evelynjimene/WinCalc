@@ -1,0 +1,25 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20230128201214
+Username: Evas_Dell\Evelyn Jimenez
+RunAs User: Evas_Dell\Evelyn Jimenez
+Configuration Name: 
+Machine: EVAS_DELL (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoExit -Command & { Import-Module 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\Tools\Microsoft.VisualStudio.DevShell.dll'; Enter-VsDevShell -SetDefaultWindowTitle -InstallPath 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise' -StartInPath 'C:\Users\Evelyn Jimenez\OneDrive\Desktop\UW Wi' 23\C#\Projects\WinCalc' }
+Process ID: 12432
+PSVersion: 5.1.22621.963
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.963
+BuildVersion: 10.0.22621.963
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\OUTPUT-TEST.txt
+PS C:\Users\Evelyn Jimenez\OneDrive\Desktop\UW Wi' 23\C#\Projects\WinCalc> .\bin\Debug\WinCalc.exe
+PS C:\Users\Evelyn Jimenez\OneDrive\Desktop\UW Wi' 23\C#\Projects\WinCalc> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20230128201327
+**********************
